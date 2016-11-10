@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ScriptLibrary2</name>
+    </assembly>
+    <members>
+        <member name="T:ScriptLibrary2.Euclid">
+            <summary>
+            A class using Euclid's algorithm for providing the greatest common divisor.
+            </summary>
+        </member>
+        <member name="M:ScriptLibrary2.Euclid.GCD(System.Int32,System.Int32)">
+            <summary>
+            Finds the greatest common divisor.
+            </summary>
+            <param name="x">The first number.  Must be larger than y.</param>
+            <param name="y">The second number</param>
+            <returns>The greatest common divisor between the two integers supplied.</returns>
+        </member>
+    </members>
+</doc>
