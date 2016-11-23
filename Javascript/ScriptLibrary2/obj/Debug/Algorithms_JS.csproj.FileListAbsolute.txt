@@ -1,9 +1,0 @@
-C:\Users\Jonathan_Moore\Documents\Visual Studio 2010\Projects\MyFiles\Apps\Algorithms\source\C#\ScriptLibrary2\bin\Debug\ScriptLibrary2.xml
-C:\Users\Jonathan_Moore\Documents\Visual Studio 2010\Projects\MyFiles\Apps\Algorithms\source\C#\ScriptLibrary2\bin\Debug\ScriptLibrary2.dll
-C:\Users\Jonathan_Moore\Documents\Visual Studio 2010\Projects\MyFiles\Apps\Algorithms\source\C#\ScriptLibrary2\bin\Debug\ScriptLibrary2.pdb
-C:\Users\Jonathan_Moore\Documents\Visual Studio 2010\Projects\MyFiles\Apps\Algorithms\source\C#\ScriptLibrary2\bin\Debug\mscorlib.dll
-C:\Users\Jonathan_Moore\Documents\Visual Studio 2010\Projects\MyFiles\Apps\Algorithms\source\C#\ScriptLibrary2\bin\Debug\Script.Web.dll
-C:\Users\Jonathan_Moore\Documents\Visual Studio 2010\Projects\MyFiles\Apps\Algorithms\source\C#\ScriptLibrary2\bin\Debug\Script.Web.xml
-C:\Users\Jonathan_Moore\Documents\Visual Studio 2010\Projects\MyFiles\Apps\Algorithms\source\C#\ScriptLibrary2\bin\Debug\mscorlib.xml
-C:\Users\Jonathan_Moore\Documents\Visual Studio 2010\Projects\MyFiles\Apps\Algorithms\source\C#\ScriptLibrary2\obj\Debug\ScriptLibrary2.dll
-C:\Users\Jonathan_Moore\Documents\Visual Studio 2010\Projects\MyFiles\Apps\Algorithms\source\C#\ScriptLibrary2\obj\Debug\ScriptLibrary2.pdb
