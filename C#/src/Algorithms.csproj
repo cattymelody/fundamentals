@@ -65,6 +65,7 @@
     <Compile Include="CursorNode.cs" />
     <Compile Include="DisjSets.cs" />
     <Compile Include="DisjSetsFast.cs" />
+    <Compile Include="FisherYates.cs" />
     <Compile Include="Hashable.cs" />
     <Compile Include="LeftHeapNode.cs" />
     <Compile Include="LeftistHeap.cs" />
