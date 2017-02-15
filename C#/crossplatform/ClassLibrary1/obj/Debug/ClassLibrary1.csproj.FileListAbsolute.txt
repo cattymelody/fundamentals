@@ -11,3 +11,6 @@ c:\users\jonathan_moore\documents\visual studio 2017\Projects\ClassLibrary1\Clas
 c:\users\jonathan_moore\documents\visual studio 2017\Projects\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.csprojResolveAssemblyReference.cache
 c:\users\jonathan_moore\documents\visual studio 2017\Projects\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.dll
 c:\users\jonathan_moore\documents\visual studio 2017\Projects\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+D:\github\fundamentals\C#\crossplatform\ClassLibrary1\obj\Debug\ClassLibrary1.csprojResolveAssemblyReference.cache
+D:\github\fundamentals\C#\crossplatform\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+D:\github\fundamentals\C#\crossplatform\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
